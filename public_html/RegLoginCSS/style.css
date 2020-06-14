@@ -1,0 +1,12 @@
+input{
+	background-color: LightSalmon;
+}
+label{
+	border: 3px dotted LightBlue;
+}
+form{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+}
