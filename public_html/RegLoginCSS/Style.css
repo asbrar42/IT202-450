@@ -1,0 +1,12 @@
+input{
+	background-color: green;
+}
+label{
+	border: 3px dotted red;
+}
+form{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+}
