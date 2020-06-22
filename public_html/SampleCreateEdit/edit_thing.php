@@ -63,5 +63,5 @@ if(isset($_POST["updated"])){
 		else{
 			echo "Name and quantity can't be empty.";
 		}		
-}			
+			
 ?>
